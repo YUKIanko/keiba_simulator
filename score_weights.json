@@ -1,0 +1,14 @@
+{
+  "component_weights": {
+    "BaseClass": 1.064,
+    "Form": 0.591,
+    "PaceFit": 0.494,
+    "PaceRankScore": 0.841,
+    "LaneFit": 0.945,
+    "TrafficRisk": 0.397,
+    "Moveability": 0.474,
+    "KickStaminaBalance": 0.789,
+    "TimeIndex": 1.386,
+    "StyleTimeFit": 0.9
+  }
+}

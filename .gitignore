@@ -1,0 +1,15 @@
+# Copyright-sensitive source files
+pdf/
+race_results/
+*.pdf
+
+# Local lock/temp
+Temporary storage/.~lock*
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Optional local artifacts
+output/exp_*/

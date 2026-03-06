@@ -1,0 +1,315 @@
+{
+  "schema_version": "course_db_jra_v0.1",
+  "fields": {
+    "track": "string",
+    "direction": "R|L",
+    "surface": "turf|dirt",
+    "layout": "main|inner|outer",
+    "lap_m": "number",
+    "homestretch_m": "number",
+    "width_m_min": "number|null",
+    "width_m_max": "number|null",
+    "elevation_m": "number|null",
+    "notes": "string"
+  },
+  "courses": [
+    {
+      "track": "東京",
+      "direction": "L",
+      "surface": "turf",
+      "layout": "main",
+      "lap_m": 2083.1,
+      "homestretch_m": 525.9,
+      "width_m_min": 31,
+      "width_m_max": 41,
+      "elevation_m": 2.7,
+      "notes": "芝A基準。幅員は馬場概要のレンジ。"
+    },
+    {
+      "track": "東京",
+      "direction": "L",
+      "surface": "dirt",
+      "layout": "main",
+      "lap_m": 1899.0,
+      "homestretch_m": 501.6,
+      "width_m_min": 25,
+      "width_m_max": 25,
+      "elevation_m": 2.5,
+      "notes": "ダートは公式コース紹介で周回/直線/幅員が提示。"
+    },
+
+    {
+      "track": "中山",
+      "direction": "R",
+      "surface": "turf",
+      "layout": "inner",
+      "lap_m": 1667.1,
+      "homestretch_m": 310.0,
+      "width_m_min": 20,
+      "width_m_max": 32,
+      "elevation_m": 5.3,
+      "notes": "高低差5.3mは公式コース紹介。A基準。"
+    },
+    {
+      "track": "中山",
+      "direction": "R",
+      "surface": "turf",
+      "layout": "outer",
+      "lap_m": 1839.7,
+      "homestretch_m": 310.0,
+      "width_m_min": 20,
+      "width_m_max": 32,
+      "elevation_m": 5.3,
+      "notes": "外回り周回は引用系で広く一致。高低差は内外共通で公式が5.3m。"
+    },
+    {
+      "track": "中山",
+      "direction": "R",
+      "surface": "dirt",
+      "layout": "main",
+      "lap_m": 1493.0,
+      "homestretch_m": 308.0,
+      "width_m_min": 20,
+      "width_m_max": 25,
+      "elevation_m": 5.3,
+      "notes": "ダート高低差は公式で取り切れず（要追加調査）。"
+    },
+
+    {
+      "track": "阪神",
+      "direction": "R",
+      "surface": "turf",
+      "layout": "inner",
+      "lap_m": 1689.0,
+      "homestretch_m": 356.5,
+      "width_m_min": 24,
+      "width_m_max": 28,
+      "elevation_m": 1.9,
+      "notes": "内回りA基準。高低差は公開解説系で一致（要:公式図の数値に差し替え推奨）。"
+    },
+    {
+      "track": "阪神",
+      "direction": "R",
+      "surface": "turf",
+      "layout": "outer",
+      "lap_m": 2089.0,
+      "homestretch_m": 473.6,
+      "width_m_min": 24,
+      "width_m_max": 29,
+      "elevation_m": 2.4,
+      "notes": "外回りA基準。"
+    },
+    {
+      "track": "阪神",
+      "direction": "R",
+      "surface": "dirt",
+      "layout": "main",
+      "lap_m": 1517.6,
+      "homestretch_m": 352.7,
+      "width_m_min": 22,
+      "width_m_max": 25,
+      "elevation_m": 1.6,
+      "notes": "ダート高低差1.6mは公式コース紹介の記述。"
+    },
+
+    {
+      "track": "京都",
+      "direction": "R",
+      "surface": "turf",
+      "layout": "inner",
+      "lap_m": 1782.8,
+      "homestretch_m": 328.4,
+      "width_m_min": 22,
+      "width_m_max": 32,
+      "elevation_m": 3.1,
+      "notes": "内回りA基準。高低差3.1m/外4.3mは公式コース紹介。"
+    },
+    {
+      "track": "京都",
+      "direction": "R",
+      "surface": "turf",
+      "layout": "outer",
+      "lap_m": 1894.3,
+      "homestretch_m": 403.7,
+      "width_m_min": 22,
+      "width_m_max": 38,
+      "elevation_m": 4.3,
+      "notes": "外回りA基準。"
+    },
+    {
+      "track": "京都",
+      "direction": "R",
+      "surface": "dirt",
+      "layout": "main",
+      "lap_m": 1608.3,
+      "homestretch_m": 329.1,
+      "width_m_min": 25,
+      "width_m_max": 25,
+      "elevation_m": 3.0,
+      "notes": "ダート高低差3.0mは解説系。公式図の数値に差し替え推奨。"
+    },
+
+    {
+      "track": "新潟",
+      "direction": "L",
+      "surface": "turf",
+      "layout": "inner",
+      "lap_m": 1623.0,
+      "homestretch_m": 358.7,
+      "width_m_min": null,
+      "width_m_max": null,
+      "elevation_m": 2.2,
+      "notes": "内回り。直線/周回/高低差は公開データで一致。"
+    },
+    {
+      "track": "新潟",
+      "direction": "L",
+      "surface": "turf",
+      "layout": "outer",
+      "lap_m": 2223.0,
+      "homestretch_m": 658.7,
+      "width_m_min": null,
+      "width_m_max": null,
+      "elevation_m": 0.8,
+      "notes": "外回り（日本最長の直線）。"
+    },
+    {
+      "track": "新潟",
+      "direction": "L",
+      "surface": "dirt",
+      "layout": "main",
+      "lap_m": 1472.6,
+      "homestretch_m": 353.9,
+      "width_m_min": 25,
+      "width_m_max": 25,
+      "elevation_m": 2.2,
+      "notes": "ダート。"
+    },
+
+    {
+      "track": "中京",
+      "direction": "L",
+      "surface": "turf",
+      "layout": "main",
+      "lap_m": 1705.9,
+      "homestretch_m": 412.5,
+      "width_m_min": 30,
+      "width_m_max": 32,
+      "elevation_m": 3.5,
+      "notes": "芝A基準。"
+    },
+    {
+      "track": "中京",
+      "direction": "L",
+      "surface": "dirt",
+      "layout": "main",
+      "lap_m": 1530.2,
+      "homestretch_m": 410.7,
+      "width_m_min": 25,
+      "width_m_max": 25,
+      "elevation_m": null,
+      "notes": "ダート高低差は要追加調査。"
+    },
+
+    {
+      "track": "札幌",
+      "direction": "R",
+      "surface": "turf",
+      "layout": "main",
+      "lap_m": 1640.9,
+      "homestretch_m": 266.1,
+      "width_m_min": 25,
+      "width_m_max": 27,
+      "elevation_m": 0.7,
+      "notes": "高低差0.7mはJRA-VAN等で明記。"
+    },
+    {
+      "track": "札幌",
+      "direction": "R",
+      "surface": "dirt",
+      "layout": "main",
+      "lap_m": 1487.0,
+      "homestretch_m": 264.3,
+      "width_m_min": 20,
+      "width_m_max": 20,
+      "elevation_m": 0.9,
+      "notes": "ダート幅員20mは馬場情報系の定型値。"
+    },
+
+    {
+      "track": "函館",
+      "direction": "R",
+      "surface": "turf",
+      "layout": "main",
+      "lap_m": 1626.6,
+      "homestretch_m": 262.1,
+      "width_m_min": 29,
+      "width_m_max": 29,
+      "elevation_m": 3.5,
+      "notes": "芝/ダとも高低差3.5mは公式コース紹介。"
+    },
+    {
+      "track": "函館",
+      "direction": "R",
+      "surface": "dirt",
+      "layout": "main",
+      "lap_m": 1475.8,
+      "homestretch_m": 260.3,
+      "width_m_min": 20,
+      "width_m_max": 20,
+      "elevation_m": 3.5,
+      "notes": "ダート周回/直線/幅員は公式馬場概要に明記。"
+    },
+
+    {
+      "track": "福島",
+      "direction": "R",
+      "surface": "turf",
+      "layout": "main",
+      "lap_m": 1600.0,
+      "homestretch_m": 292.0,
+      "width_m_min": null,
+      "width_m_max": null,
+      "elevation_m": 1.9,
+      "notes": "芝A基準。B/Cは移動柵で周回が増えるタイプ（後でrail_variants化推奨）。"
+    },
+    {
+      "track": "福島",
+      "direction": "R",
+      "surface": "dirt",
+      "layout": "main",
+      "lap_m": 1444.6,
+      "homestretch_m": 295.7,
+      "width_m_min": 25,
+      "width_m_max": 25,
+      "elevation_m": 2.1,
+      "notes": "ダート。"
+    },
+
+    {
+      "track": "小倉",
+      "direction": "R",
+      "surface": "turf",
+      "layout": "main",
+      "lap_m": 1615.1,
+      "homestretch_m": 293.0,
+      "width_m_min": 30,
+      "width_m_max": 30,
+      "elevation_m": 3.0,
+      "notes": "芝A基準。"
+    },
+    {
+      "track": "小倉",
+      "direction": "R",
+      "surface": "dirt",
+      "layout": "main",
+      "lap_m": 1445.4,
+      "homestretch_m": 291.3,
+      "width_m_min": 24,
+      "width_m_max": 24,
+      "elevation_m": 3.0,
+      "notes": "ダート。"
+    }
+  ]
+}
+

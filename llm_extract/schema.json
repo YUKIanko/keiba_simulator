@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "properties": {
+    "race": {
+      "type": "object",
+      "properties": {
+        "track": {"type": "string"},
+        "surface": {"type": "string"},
+        "distance_m": {"type": "integer"},
+        "direction": {"type": "string"}
+      },
+      "required": ["track", "surface", "distance_m"]
+    },
+    "horses": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "horse_no": {"type": "integer"},
+          "name": {"type": "string"},
+          "runs": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "track": {"type": "string"},
+                "surface": {"type": "string"},
+                "distance_m": {"type": "integer"},
+                "time_str": {"type": "string"},
+                "positions": {"type": "string"},
+                "last3f": {"type": "number"}
+              },
+              "required": ["track", "surface", "distance_m", "positions"]
+            }
+          }
+        },
+        "required": ["horse_no", "name"]
+      }
+    }
+  },
+  "required": ["race", "horses"]
+}
