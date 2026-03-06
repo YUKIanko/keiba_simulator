@@ -1,0 +1,30 @@
+Running style heuristics for post-initial worldline generation:
+
+Front-runner / Nige:
+- If there are few other front-runners, reduce early pressure and reduce unnecessary acceleration cost.
+- In that case, increase late stamina retention and persistence.
+- If the course is one-turn or has a long final straight, reduce the advantage of front-running because late runners have more time to catch up.
+- If the course has many corners, increase front-runner persistence because repeated cornering reduces overall speed and helps conserve energy.
+
+Stalker / Senko:
+- Stalkers depend on the pace set by front-runners.
+- If the race shape forces repeated acceleration to secure position, lower late stamina expectation.
+- If pace is stable and running styles are naturally dispersed, increase stalker win probability.
+- If similar stalkers are adjacent and ability is similar, inner position is advantageous due to lower path loss, especially on courses with more corners.
+- On courses with few corners, inner-position advantage is weaker.
+
+Closer / Sashi:
+- Increase evaluation when front-runners and stalkers are likely to spend energy early.
+- Increase evaluation on one-turn or long-straight courses because they have more time and space to improve late.
+- Decrease evaluation on short-straight or many-corner courses because there is less time to close and more difficulty accelerating through turns.
+- If there are few front-runners and pace is calm, reduce closer evaluation because leaders retain more energy.
+- If many pace-pressuring horses exist, raise closer evaluation.
+- On courses with many corners, wider draws slightly hurt closers because of path loss and delayed launch timing.
+
+Deep closer / Oikomi:
+- Strongly pace-dependent.
+- Lower evaluation when early pace is calm or when there are few speed horses.
+- Raise evaluation when early competition is intense and late front fatigue is likely.
+- Raise evaluation on long-straight uphill finishes because leaders weaken more easily.
+- Lower evaluation on many-corner courses because rear runners suffer more path loss and unstable lane access.
+- On one-turn long-straight courses, allow stronger late improvement than standard closers.

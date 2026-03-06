@@ -1,0 +1,16 @@
+﻿column_name,meaning,allowed_values_or_rule,example
+race_flow_label,レース全体の決まり方,前残り / 平均 / 差し有利 / 先行総崩れ / 消耗戦,差し有利
+pace_impression,主観的な流れの速さ,遅い / やや遅い / 平均 / やや速い / 速い,やや速い
+front_bias,逃げ・先行にどれだけ有利だったか,強い / やや強い / 中立 / やや弱い / 弱い,弱い
+corner_pressure,コーナーでの圧縮・ロスの強さ,弱い / 中立 / 強い,強い
+straight_for_closers,直線が差し追込に向いたか,不利 / 中立 / 有利,有利
+uphill_fatigue,坂や消耗で前が止まりやすかったか,なし / ややあり / 強い,ややあり
+winner_start_pos,勝ち馬の序盤位置,逃げ / 先行 / 好位 / 中団前 / 中団 / 後方,中団前
+winner_3to4c_pos,勝ち馬の3〜4角付近の位置,逃げ / 先行 / 好位 / 中団内 / 中団外 / 後方,中団外
+winner_stretch_path,勝ち馬が直線で通った進路,内 / 中 / 外,外
+winner_trip_note,勝ち馬の簡単な道中メモ,自由記述（1〜2文）,序盤は無理せず中団。4角で外へ持ち出して直線で差し切り。
+predicted_key_error,予想が外れた主因,前残り想定が強すぎた / ペース読違い / コーナーロス未評価 / 直線適性未評価 / その他,前残り想定が強すぎた
+best_matching_branch,worldlineで一番近かった枝,inside_retention / corner_compression / late_improvement / uphill_fatigue / none,late_improvement
+manual_notes,全体メモ,自由記述（短文）,先行勢が4角でやや苦しく、直線の長さが差しに向いた。
+confidence_1to5,自分の判定の確信度,1 / 2 / 3 / 4 / 5,4
+needs_model_fix,モデル修正が必要か,yes / no / maybe,yes

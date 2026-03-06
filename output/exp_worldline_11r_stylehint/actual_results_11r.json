@@ -1,0 +1,994 @@
+{
+  "races": {
+    "10": {
+      "source": "output/eval_11r_results/2026年1月24日（土曜）1回中山8日 10レースpdf",
+      "warnings": [],
+      "results": [
+        {
+          "finish": 1,
+          "horse_no": 1,
+          "horse_name": "プルナチャンドラ",
+          "popularity": 1
+        },
+        {
+          "finish": 2,
+          "horse_no": 7,
+          "horse_name": "サノノワンダー",
+          "popularity": 2
+        },
+        {
+          "finish": 3,
+          "horse_no": 8,
+          "horse_name": "シグムンド",
+          "popularity": 4
+        },
+        {
+          "finish": 4,
+          "horse_no": 4,
+          "horse_name": "セザンワールド",
+          "popularity": 7
+        },
+        {
+          "finish": 5,
+          "horse_no": 10,
+          "horse_name": "フィールオーサム",
+          "popularity": 3
+        },
+        {
+          "finish": 6,
+          "horse_no": 2,
+          "horse_name": "マンダリンボレロ",
+          "popularity": 8
+        },
+        {
+          "finish": 7,
+          "horse_no": 5,
+          "horse_name": "デルマタモン",
+          "popularity": 9
+        },
+        {
+          "finish": 8,
+          "horse_no": 3,
+          "horse_name": "ライジンマル",
+          "popularity": 6
+        },
+        {
+          "finish": 9,
+          "horse_no": 6,
+          "horse_name": "ヤウガウ",
+          "popularity": 10
+        },
+        {
+          "finish": 10,
+          "horse_no": 9,
+          "horse_name": "デファイ",
+          "popularity": 5
+        }
+      ]
+    },
+    "11": {
+      "source": "output/eval_11r_results/2026年1月24日（土曜）1回中山8日 11レース.pdf",
+      "warnings": [],
+      "results": [
+        {
+          "finish": 1,
+          "horse_no": 16,
+          "horse_name": "エセルフリーダ",
+          "popularity": 2
+        },
+        {
+          "finish": 2,
+          "horse_no": 10,
+          "horse_name": "ショウナンラピダス",
+          "popularity": 4
+        },
+        {
+          "finish": 3,
+          "horse_no": 4,
+          "horse_name": "フレーヴァード",
+          "popularity": 8
+        },
+        {
+          "finish": 4,
+          "horse_no": 14,
+          "horse_name": "ガジュノリ",
+          "popularity": 12
+        },
+        {
+          "finish": 5,
+          "horse_no": 18,
+          "horse_name": "アマイ",
+          "popularity": 13
+        },
+        {
+          "finish": 6,
+          "horse_no": 6,
+          "horse_name": "マイネルブリックス",
+          "popularity": 15
+        },
+        {
+          "finish": 7,
+          "horse_no": 9,
+          "horse_name": "スパークリシャール",
+          "popularity": 11
+        },
+        {
+          "finish": 8,
+          "horse_no": 1,
+          "horse_name": "マイネルニコラス",
+          "popularity": 14
+        },
+        {
+          "finish": 9,
+          "horse_no": 11,
+          "horse_name": "ソリダリティ",
+          "popularity": 10
+        },
+        {
+          "finish": 10,
+          "horse_no": 7,
+          "horse_name": "シャドウメテオ",
+          "popularity": 1
+        },
+        {
+          "finish": 11,
+          "horse_no": 3,
+          "horse_name": "ミカッテヨンデイイ",
+          "popularity": 6
+        },
+        {
+          "finish": 12,
+          "horse_no": 5,
+          "horse_name": "ロジマンボ",
+          "popularity": 18
+        },
+        {
+          "finish": 13,
+          "horse_no": 2,
+          "horse_name": "タイキラフター",
+          "popularity": 5
+        },
+        {
+          "finish": 14,
+          "horse_no": 8,
+          "horse_name": "ドットクルー",
+          "popularity": 3
+        },
+        {
+          "finish": 15,
+          "horse_no": 12,
+          "horse_name": "コスモフロイデ",
+          "popularity": 17
+        },
+        {
+          "finish": 16,
+          "horse_no": 15,
+          "horse_name": "ホウオウムサシ",
+          "popularity": 7
+        },
+        {
+          "finish": 17,
+          "horse_no": 17,
+          "horse_name": "カヨウネンカ",
+          "popularity": 16
+        },
+        {
+          "finish": 18,
+          "horse_no": 13,
+          "horse_name": "ルシフェル",
+          "popularity": 9
+        }
+      ]
+    },
+    "12": {
+      "source": "output/eval_11r_results/2026年1月24日（土曜）1回中山8日 12レース.pdf",
+      "warnings": [],
+      "results": [
+        {
+          "finish": 1,
+          "horse_no": 2,
+          "horse_name": "プリムツァール",
+          "popularity": 1
+        },
+        {
+          "finish": 2,
+          "horse_no": 8,
+          "horse_name": "ゴールドシーン",
+          "popularity": 6
+        },
+        {
+          "finish": 3,
+          "horse_no": 1,
+          "horse_name": "アセンブリールーム",
+          "popularity": 2
+        },
+        {
+          "finish": 4,
+          "horse_no": 5,
+          "horse_name": "イージーブリージー",
+          "popularity": 5
+        },
+        {
+          "finish": 5,
+          "horse_no": 11,
+          "horse_name": "メランジェ",
+          "popularity": 3
+        },
+        {
+          "finish": 6,
+          "horse_no": 4,
+          "horse_name": "レッドロスタム",
+          "popularity": 4
+        },
+        {
+          "finish": 7,
+          "horse_no": 6,
+          "horse_name": "ペプロス",
+          "popularity": 8
+        },
+        {
+          "finish": 8,
+          "horse_no": 7,
+          "horse_name": "チョングク",
+          "popularity": 7
+        },
+        {
+          "finish": 9,
+          "horse_no": 10,
+          "horse_name": "スノークローバー",
+          "popularity": 12
+        },
+        {
+          "finish": 10,
+          "horse_no": 3,
+          "horse_name": "エコロライジン",
+          "popularity": 10
+        },
+        {
+          "finish": 11,
+          "horse_no": 9,
+          "horse_name": "カイトグート",
+          "popularity": 9
+        },
+        {
+          "finish": 12,
+          "horse_no": 12,
+          "horse_name": "サトノジール",
+          "popularity": 11
+        }
+      ]
+    },
+    "1": {
+      "source": "output/eval_11r_results/2026年1月24日（土曜）1回中山8日 1レース.pdf",
+      "warnings": [],
+      "results": [
+        {
+          "finish": 1,
+          "horse_no": 16,
+          "horse_name": "ムーンブランシュ",
+          "popularity": 1
+        },
+        {
+          "finish": 2,
+          "horse_no": 14,
+          "horse_name": "タヤスロレンヌ",
+          "popularity": 7
+        },
+        {
+          "finish": 3,
+          "horse_no": 2,
+          "horse_name": "アドミ",
+          "popularity": 2
+        },
+        {
+          "finish": 4,
+          "horse_no": 9,
+          "horse_name": "ローズオブジャパン",
+          "popularity": 4
+        },
+        {
+          "finish": 5,
+          "horse_no": 7,
+          "horse_name": "イヌボウノキラメキ",
+          "popularity": 6
+        },
+        {
+          "finish": 6,
+          "horse_no": 10,
+          "horse_name": "オニノウタゲ",
+          "popularity": 11
+        },
+        {
+          "finish": 7,
+          "horse_no": 11,
+          "horse_name": "トコシエノヒトミ",
+          "popularity": 5
+        },
+        {
+          "finish": 8,
+          "horse_no": 5,
+          "horse_name": "スカット",
+          "popularity": 10
+        },
+        {
+          "finish": 9,
+          "horse_no": 8,
+          "horse_name": "ワンダーバリエンス",
+          "popularity": 15
+        },
+        {
+          "finish": 10,
+          "horse_no": 4,
+          "horse_name": "ジョイアミーア",
+          "popularity": 3
+        },
+        {
+          "finish": 11,
+          "horse_no": 3,
+          "horse_name": "ビアーレ",
+          "popularity": 9
+        },
+        {
+          "finish": 12,
+          "horse_no": 12,
+          "horse_name": "ジュニアスウィート",
+          "popularity": 8
+        },
+        {
+          "finish": 13,
+          "horse_no": 15,
+          "horse_name": "マイニオサラスタス",
+          "popularity": 12
+        },
+        {
+          "finish": 14,
+          "horse_no": 1,
+          "horse_name": "シセイヒナタ",
+          "popularity": 13
+        },
+        {
+          "finish": 15,
+          "horse_no": 6,
+          "horse_name": "アイアンブランド",
+          "popularity": 16
+        },
+        {
+          "finish": 16,
+          "horse_no": 13,
+          "horse_name": "マジョリカ",
+          "popularity": 14
+        }
+      ]
+    },
+    "2": {
+      "source": "output/eval_11r_results/2026年1月24日（土曜）1回中山8日 2レース.pdf",
+      "warnings": [],
+      "results": [
+        {
+          "finish": 1,
+          "horse_no": 4,
+          "horse_name": "スノースコール",
+          "popularity": 3
+        },
+        {
+          "finish": 2,
+          "horse_no": 14,
+          "horse_name": "コパノエイダン",
+          "popularity": 4
+        },
+        {
+          "finish": 3,
+          "horse_no": 3,
+          "horse_name": "アイデアユー",
+          "popularity": 1
+        },
+        {
+          "finish": 4,
+          "horse_no": 12,
+          "horse_name": "ニシノモリミチ",
+          "popularity": 2
+        },
+        {
+          "finish": 5,
+          "horse_no": 11,
+          "horse_name": "クリュメノス",
+          "popularity": 11
+        },
+        {
+          "finish": 6,
+          "horse_no": 7,
+          "horse_name": "クアッドフォルツァ",
+          "popularity": 10
+        },
+        {
+          "finish": 7,
+          "horse_no": 10,
+          "horse_name": "ハイランダー",
+          "popularity": 12
+        },
+        {
+          "finish": 8,
+          "horse_no": 15,
+          "horse_name": "ハリウッドグラム",
+          "popularity": 5
+        },
+        {
+          "finish": 9,
+          "horse_no": 5,
+          "horse_name": "クラージュスター",
+          "popularity": 8
+        },
+        {
+          "finish": 10,
+          "horse_no": 6,
+          "horse_name": "ハルノアメ",
+          "popularity": 6
+        },
+        {
+          "finish": 11,
+          "horse_no": 2,
+          "horse_name": "シデンイッセン",
+          "popularity": 9
+        },
+        {
+          "finish": 12,
+          "horse_no": 13,
+          "horse_name": "イントゥゴールデン",
+          "popularity": 16
+        },
+        {
+          "finish": 13,
+          "horse_no": 1,
+          "horse_name": "ビップマリク",
+          "popularity": 7
+        },
+        {
+          "finish": 14,
+          "horse_no": 9,
+          "horse_name": "ハロングロットル",
+          "popularity": 14
+        },
+        {
+          "finish": 15,
+          "horse_no": 8,
+          "horse_name": "コンヴァーンクル",
+          "popularity": 13
+        },
+        {
+          "finish": 16,
+          "horse_no": 16,
+          "horse_name": "ビックリパラダイス",
+          "popularity": 15
+        }
+      ]
+    },
+    "4": {
+      "source": "output/eval_11r_results/2026年1月24日（土曜）1回中山8日 4レース.pdf",
+      "warnings": [],
+      "results": [
+        {
+          "finish": 1,
+          "horse_no": 3,
+          "horse_name": "テイクオンミー",
+          "popularity": 6
+        },
+        {
+          "finish": 2,
+          "horse_no": 10,
+          "horse_name": "ウインビギニング",
+          "popularity": 1
+        },
+        {
+          "finish": 3,
+          "horse_no": 15,
+          "horse_name": "コイオステソーロ",
+          "popularity": 4
+        },
+        {
+          "finish": 4,
+          "horse_no": 14,
+          "horse_name": "エマープ",
+          "popularity": 10
+        },
+        {
+          "finish": 5,
+          "horse_no": 13,
+          "horse_name": "コウソクルリアン",
+          "popularity": 9
+        },
+        {
+          "finish": 6,
+          "horse_no": 8,
+          "horse_name": "カシマライフウ",
+          "popularity": 3
+        },
+        {
+          "finish": 7,
+          "horse_no": 12,
+          "horse_name": "サクセスゴールド",
+          "popularity": 2
+        },
+        {
+          "finish": 8,
+          "horse_no": 11,
+          "horse_name": "ファイアリービート",
+          "popularity": 5
+        },
+        {
+          "finish": 9,
+          "horse_no": 1,
+          "horse_name": "クリムゾンリーフ",
+          "popularity": 7
+        },
+        {
+          "finish": 10,
+          "horse_no": 4,
+          "horse_name": "ジオストラテジー",
+          "popularity": 8
+        },
+        {
+          "finish": 11,
+          "horse_no": 5,
+          "horse_name": "キョウエイアート",
+          "popularity": 13
+        },
+        {
+          "finish": 12,
+          "horse_no": 2,
+          "horse_name": "サンタピア",
+          "popularity": 14
+        },
+        {
+          "finish": 13,
+          "horse_no": 6,
+          "horse_name": "イベリスアマラ",
+          "popularity": 12
+        },
+        {
+          "finish": 14,
+          "horse_no": 7,
+          "horse_name": "レディトゥランブル",
+          "popularity": 11
+        },
+        {
+          "finish": 15,
+          "horse_no": 9,
+          "horse_name": "モウレツ",
+          "popularity": 15
+        }
+      ]
+    },
+    "5": {
+      "source": "output/eval_11r_results/2026年1月24日（土曜）1回中山8日 5レース.pdf",
+      "warnings": [],
+      "results": [
+        {
+          "finish": 1,
+          "horse_no": 17,
+          "horse_name": "ミッキーファルコン",
+          "popularity": 2
+        },
+        {
+          "finish": 2,
+          "horse_no": 18,
+          "horse_name": "ベルトラッキ",
+          "popularity": 9
+        },
+        {
+          "finish": 3,
+          "horse_no": 3,
+          "horse_name": "ゾネブルーム",
+          "popularity": 10
+        },
+        {
+          "finish": 4,
+          "horse_no": 8,
+          "horse_name": "モデレートゲイル",
+          "popularity": 8
+        },
+        {
+          "finish": 5,
+          "horse_no": 2,
+          "horse_name": "ウィロークリーク",
+          "popularity": 1
+        },
+        {
+          "finish": 6,
+          "horse_no": 5,
+          "horse_name": "ウェイクフィールド",
+          "popularity": 3
+        },
+        {
+          "finish": 7,
+          "horse_no": 1,
+          "horse_name": "ベストブラザーズ",
+          "popularity": 7
+        },
+        {
+          "finish": 8,
+          "horse_no": 10,
+          "horse_name": "フォーチュンローズ",
+          "popularity": 4
+        },
+        {
+          "finish": 9,
+          "horse_no": 7,
+          "horse_name": "キンググローリー",
+          "popularity": 6
+        },
+        {
+          "finish": 10,
+          "horse_no": 4,
+          "horse_name": "マイネルヴェーゼン",
+          "popularity": 5
+        },
+        {
+          "finish": 11,
+          "horse_no": 16,
+          "horse_name": "レッドリアライズ",
+          "popularity": 16
+        },
+        {
+          "finish": 12,
+          "horse_no": 6,
+          "horse_name": "ラヴィニアパーク",
+          "popularity": 11
+        },
+        {
+          "finish": 13,
+          "horse_no": 12,
+          "horse_name": "トーセンマジェスタ",
+          "popularity": 17
+        },
+        {
+          "finish": 14,
+          "horse_no": 14,
+          "horse_name": "ロイヤルヤマト",
+          "popularity": 12
+        },
+        {
+          "finish": 15,
+          "horse_no": 13,
+          "horse_name": "エクラドット",
+          "popularity": 13
+        },
+        {
+          "finish": 16,
+          "horse_no": 15,
+          "horse_name": "ファインブライト",
+          "popularity": 15
+        },
+        {
+          "finish": 17,
+          "horse_no": 9,
+          "horse_name": "ノーブルスアーク",
+          "popularity": 14
+        },
+        {
+          "finish": 18,
+          "horse_no": 11,
+          "horse_name": "スチールナイト",
+          "popularity": 18
+        }
+      ]
+    },
+    "6": {
+      "source": "output/eval_11r_results/2026年1月24日（土曜）1回中山8日 6レース.pdf",
+      "warnings": [],
+      "results": [
+        {
+          "finish": 1,
+          "horse_no": 11,
+          "horse_name": "クラウトロック",
+          "popularity": 1
+        },
+        {
+          "finish": 2,
+          "horse_no": 4,
+          "horse_name": "ガンダ",
+          "popularity": 10
+        },
+        {
+          "finish": 3,
+          "horse_no": 9,
+          "horse_name": "リヒトミューレ",
+          "popularity": 7
+        },
+        {
+          "finish": 4,
+          "horse_no": 6,
+          "horse_name": "ショウナンパトス",
+          "popularity": 4
+        },
+        {
+          "finish": 5,
+          "horse_no": 10,
+          "horse_name": "ユアフェリシティ",
+          "popularity": 3
+        },
+        {
+          "finish": 6,
+          "horse_no": 3,
+          "horse_name": "ラフレードピエル",
+          "popularity": 13
+        },
+        {
+          "finish": 7,
+          "horse_no": 2,
+          "horse_name": "ロンギングフォユー",
+          "popularity": 2
+        },
+        {
+          "finish": 8,
+          "horse_no": 7,
+          "horse_name": "タイセツナヒ",
+          "popularity": 11
+        },
+        {
+          "finish": 9,
+          "horse_no": 12,
+          "horse_name": "アースインハマー",
+          "popularity": 5
+        },
+        {
+          "finish": 10,
+          "horse_no": 1,
+          "horse_name": "ニャンタロウ",
+          "popularity": 9
+        },
+        {
+          "finish": 11,
+          "horse_no": 8,
+          "horse_name": "アジアントレジャー",
+          "popularity": 12
+        },
+        {
+          "finish": 12,
+          "horse_no": 5,
+          "horse_name": "ケントン",
+          "popularity": 6
+        },
+        {
+          "finish": 13,
+          "horse_no": 13,
+          "horse_name": "セントゴーデンス",
+          "popularity": 8
+        }
+      ]
+    },
+    "7": {
+      "source": "output/eval_11r_results/2026年1月24日（土曜）1回中山8日 7レース.pdf",
+      "warnings": [],
+      "results": [
+        {
+          "finish": 1,
+          "horse_no": 14,
+          "horse_name": "ルーフオブヘヴン",
+          "popularity": 6
+        },
+        {
+          "finish": 2,
+          "horse_no": 15,
+          "horse_name": "ピコレッド",
+          "popularity": 1
+        },
+        {
+          "finish": 3,
+          "horse_no": 1,
+          "horse_name": "ホウオウゴールド",
+          "popularity": 3
+        },
+        {
+          "finish": 4,
+          "horse_no": 5,
+          "horse_name": "カーヌスティ",
+          "popularity": 4
+        },
+        {
+          "finish": 5,
+          "horse_no": 13,
+          "horse_name": "バスターコール",
+          "popularity": 11
+        },
+        {
+          "finish": 6,
+          "horse_no": 4,
+          "horse_name": "クインズポラリス",
+          "popularity": 7
+        },
+        {
+          "finish": 7,
+          "horse_no": 12,
+          "horse_name": "シスター",
+          "popularity": 9
+        },
+        {
+          "finish": 8,
+          "horse_no": 8,
+          "horse_name": "ホーリーブライト",
+          "popularity": 10
+        },
+        {
+          "finish": 9,
+          "horse_no": 9,
+          "horse_name": "ヴィンブルレー",
+          "popularity": 2
+        },
+        {
+          "finish": 10,
+          "horse_no": 11,
+          "horse_name": "スマートフランキー",
+          "popularity": 12
+        },
+        {
+          "finish": 11,
+          "horse_no": 7,
+          "horse_name": "ショーモッシュ",
+          "popularity": 13
+        },
+        {
+          "finish": 12,
+          "horse_no": 2,
+          "horse_name": "ハーモニーソング",
+          "popularity": 8
+        },
+        {
+          "finish": 13,
+          "horse_no": 10,
+          "horse_name": "エンジェルラダー",
+          "popularity": 5
+        },
+        {
+          "finish": 14,
+          "horse_no": 6,
+          "horse_name": "ヴォラーレ",
+          "popularity": 16
+        },
+        {
+          "finish": 15,
+          "horse_no": 3,
+          "horse_name": "ブリッツアロング",
+          "popularity": 15
+        },
+        {
+          "finish": 16,
+          "horse_no": 16,
+          "horse_name": "ヴィヴァラリス",
+          "popularity": 14
+        }
+      ]
+    },
+    "8": {
+      "source": "output/eval_11r_results/2026年1月24日（土曜）1回中山8日 8レース.pdf",
+      "warnings": [],
+      "results": [
+        {
+          "finish": 1,
+          "horse_no": 11,
+          "horse_name": "キョウエイフロイデ",
+          "popularity": 2
+        },
+        {
+          "finish": 2,
+          "horse_no": 4,
+          "horse_name": "ヴァリオーサ",
+          "popularity": 5
+        },
+        {
+          "finish": 3,
+          "horse_no": 2,
+          "horse_name": "マタミカンサン",
+          "popularity": 4
+        },
+        {
+          "finish": 4,
+          "horse_no": 8,
+          "horse_name": "パースウェイド",
+          "popularity": 1
+        },
+        {
+          "finish": 5,
+          "horse_no": 3,
+          "horse_name": "ピラニアキッス",
+          "popularity": 10
+        },
+        {
+          "finish": 6,
+          "horse_no": 12,
+          "horse_name": "ミラクルダンサー",
+          "popularity": 6
+        },
+        {
+          "finish": 7,
+          "horse_no": 6,
+          "horse_name": "ルージュマローネ",
+          "popularity": 7
+        },
+        {
+          "finish": 8,
+          "horse_no": 1,
+          "horse_name": "ミヤジテン",
+          "popularity": 8
+        },
+        {
+          "finish": 9,
+          "horse_no": 10,
+          "horse_name": "シャンハイナイト",
+          "popularity": 3
+        },
+        {
+          "finish": 10,
+          "horse_no": 7,
+          "horse_name": "テンミラージュ",
+          "popularity": 9
+        },
+        {
+          "finish": 11,
+          "horse_no": 5,
+          "horse_name": "レリッシュ",
+          "popularity": 11
+        }
+      ]
+    },
+    "9": {
+      "source": "output/eval_11r_results/2026年1月24日（土曜）1回中山8日 9レース.pdf",
+      "warnings": [],
+      "results": [
+        {
+          "finish": 1,
+          "horse_no": 7,
+          "horse_name": "ドゥカート",
+          "popularity": 7
+        },
+        {
+          "finish": 2,
+          "horse_no": 5,
+          "horse_name": "ヤマニンアドホック",
+          "popularity": 3
+        },
+        {
+          "finish": 3,
+          "horse_no": 6,
+          "horse_name": "ビーオンザカバー",
+          "popularity": 1
+        },
+        {
+          "finish": 4,
+          "horse_no": 2,
+          "horse_name": "タイセイリコルド",
+          "popularity": 2
+        },
+        {
+          "finish": 5,
+          "horse_no": 1,
+          "horse_name": "マイネルフーガ",
+          "popularity": 6
+        },
+        {
+          "finish": 6,
+          "horse_no": 9,
+          "horse_name": "ミラーダカリエンテ",
+          "popularity": 9
+        },
+        {
+          "finish": 7,
+          "horse_no": 3,
+          "horse_name": "ミーントゥビー",
+          "popularity": 5
+        },
+        {
+          "finish": 8,
+          "horse_no": 8,
+          "horse_name": "レイヤードレッド",
+          "popularity": 8
+        },
+        {
+          "finish": 9,
+          "horse_no": 4,
+          "horse_name": "ダイシンアポロン",
+          "popularity": 4
+        }
+      ]
+    }
+  }
+}

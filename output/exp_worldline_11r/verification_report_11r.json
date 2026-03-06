@@ -1,0 +1,296 @@
+{
+  "summary": {
+    "total_races": 11,
+    "ok_races": 11,
+    "top1_hits": 2,
+    "winner_in_top3_hits": 3,
+    "avg_top3_overlap": 0.455
+  },
+  "races": [
+    {
+      "race_no": 1,
+      "status": "ok",
+      "actual_source": "output/eval_11r_results/2026年1月24日（土曜）1回中山8日 1レース.pdf",
+      "sim_source": "output/exp_worldline_11r/Race_1_(2026年1月24日（土曜）1回中山8日_1レース).json",
+      "winner_no": 16,
+      "winner_name": "ムーンブランシュ",
+      "winner_pred_rank": 16,
+      "winner_mark": "",
+      "pred_top1_no": 3,
+      "hit_top1": false,
+      "winner_in_pred_top3": false,
+      "actual_top3": [
+        16,
+        14,
+        2
+      ],
+      "pred_top3": [
+        3,
+        8,
+        1
+      ],
+      "top3_overlap": [],
+      "top3_overlap_count": 0
+    },
+    {
+      "race_no": 2,
+      "status": "ok",
+      "actual_source": "output/eval_11r_results/2026年1月24日（土曜）1回中山8日 2レース.pdf",
+      "sim_source": "output/exp_worldline_11r/Race_1_(2026年1月24日（土曜）1回中山8日_2レース).json",
+      "winner_no": 4,
+      "winner_name": "スノースコール",
+      "winner_pred_rank": 5,
+      "winner_mark": "",
+      "pred_top1_no": 2,
+      "hit_top1": false,
+      "winner_in_pred_top3": false,
+      "actual_top3": [
+        4,
+        14,
+        3
+      ],
+      "pred_top3": [
+        2,
+        5,
+        1
+      ],
+      "top3_overlap": [],
+      "top3_overlap_count": 0
+    },
+    {
+      "race_no": 4,
+      "status": "ok",
+      "actual_source": "output/eval_11r_results/2026年1月24日（土曜）1回中山8日 4レース.pdf",
+      "sim_source": "output/exp_worldline_11r/Race_1_(2026年1月24日（土曜）1回中山8日_4レース).json",
+      "winner_no": 3,
+      "winner_name": "テイクオンミー",
+      "winner_pred_rank": 6,
+      "winner_mark": "",
+      "pred_top1_no": 13,
+      "hit_top1": false,
+      "winner_in_pred_top3": false,
+      "actual_top3": [
+        3,
+        10,
+        15
+      ],
+      "pred_top3": [
+        13,
+        7,
+        14
+      ],
+      "top3_overlap": [],
+      "top3_overlap_count": 0
+    },
+    {
+      "race_no": 5,
+      "status": "ok",
+      "actual_source": "output/eval_11r_results/2026年1月24日（土曜）1回中山8日 5レース.pdf",
+      "sim_source": "output/exp_worldline_11r/Race_1_(2026年1月24日（土曜）1回中山8日_5レース).json",
+      "winner_no": 17,
+      "winner_name": "ミッキーファルコン",
+      "winner_pred_rank": 17,
+      "winner_mark": "",
+      "pred_top1_no": 7,
+      "hit_top1": false,
+      "winner_in_pred_top3": false,
+      "actual_top3": [
+        17,
+        18,
+        3
+      ],
+      "pred_top3": [
+        7,
+        1,
+        2
+      ],
+      "top3_overlap": [],
+      "top3_overlap_count": 0
+    },
+    {
+      "race_no": 6,
+      "status": "ok",
+      "actual_source": "output/eval_11r_results/2026年1月24日（土曜）1回中山8日 6レース.pdf",
+      "sim_source": "output/exp_worldline_11r/Race_1_(2026年1月24日（土曜）1回中山8日_6レース).json",
+      "winner_no": 11,
+      "winner_name": "クラウトロック",
+      "winner_pred_rank": 12,
+      "winner_mark": "",
+      "pred_top1_no": 13,
+      "hit_top1": false,
+      "winner_in_pred_top3": false,
+      "actual_top3": [
+        11,
+        4,
+        9
+      ],
+      "pred_top3": [
+        13,
+        9,
+        1
+      ],
+      "top3_overlap": [
+        9
+      ],
+      "top3_overlap_count": 1
+    },
+    {
+      "race_no": 7,
+      "status": "ok",
+      "actual_source": "output/eval_11r_results/2026年1月24日（土曜）1回中山8日 7レース.pdf",
+      "sim_source": "output/exp_worldline_11r/Race_1_(2026年1月24日（土曜）1回中山8日_7レース).json",
+      "winner_no": 14,
+      "winner_name": "ルーフオブヘヴン",
+      "winner_pred_rank": 15,
+      "winner_mark": "",
+      "pred_top1_no": 16,
+      "hit_top1": false,
+      "winner_in_pred_top3": false,
+      "actual_top3": [
+        14,
+        15,
+        1
+      ],
+      "pred_top3": [
+        16,
+        9,
+        10
+      ],
+      "top3_overlap": [],
+      "top3_overlap_count": 0
+    },
+    {
+      "race_no": 8,
+      "status": "ok",
+      "actual_source": "output/eval_11r_results/2026年1月24日（土曜）1回中山8日 8レース.pdf",
+      "sim_source": "output/exp_worldline_11r/Race_1_(2026年1月24日（土曜）1回中山8日_8レース).json",
+      "winner_no": 11,
+      "winner_name": "キョウエイフロイデ",
+      "winner_pred_rank": 11,
+      "winner_mark": "",
+      "pred_top1_no": 8,
+      "hit_top1": false,
+      "winner_in_pred_top3": false,
+      "actual_top3": [
+        11,
+        4,
+        2
+      ],
+      "pred_top3": [
+        8,
+        4,
+        6
+      ],
+      "top3_overlap": [
+        4
+      ],
+      "top3_overlap_count": 1
+    },
+    {
+      "race_no": 9,
+      "status": "ok",
+      "actual_source": "output/eval_11r_results/2026年1月24日（土曜）1回中山8日 9レース.pdf",
+      "sim_source": "output/exp_worldline_11r/Race_1_(2026年1月24日（土曜）1回中山8日_9レース).json",
+      "winner_no": 7,
+      "winner_name": "ドゥカート",
+      "winner_pred_rank": 1,
+      "winner_mark": "◎",
+      "pred_top1_no": 7,
+      "hit_top1": true,
+      "winner_in_pred_top3": true,
+      "actual_top3": [
+        7,
+        5,
+        6
+      ],
+      "pred_top3": [
+        7,
+        1,
+        2
+      ],
+      "top3_overlap": [
+        7
+      ],
+      "top3_overlap_count": 1
+    },
+    {
+      "race_no": 10,
+      "status": "ok",
+      "actual_source": "output/eval_11r_results/2026年1月24日（土曜）1回中山8日 10レースpdf",
+      "sim_source": "output/exp_worldline_11r/Race_1_(2026年1月24日（土曜）1回中山8日_10レース).json",
+      "winner_no": 1,
+      "winner_name": "プルナチャンドラ",
+      "winner_pred_rank": 3,
+      "winner_mark": "",
+      "pred_top1_no": 9,
+      "hit_top1": false,
+      "winner_in_pred_top3": true,
+      "actual_top3": [
+        1,
+        7,
+        8
+      ],
+      "pred_top3": [
+        9,
+        4,
+        1
+      ],
+      "top3_overlap": [
+        1
+      ],
+      "top3_overlap_count": 1
+    },
+    {
+      "race_no": 11,
+      "status": "ok",
+      "actual_source": "output/eval_11r_results/2026年1月24日（土曜）1回中山8日 11レース.pdf",
+      "sim_source": "output/exp_worldline_11r/Race_1_(2026年1月24日（土曜）1回中山8日_11レース).json",
+      "winner_no": 16,
+      "winner_name": "エセルフリーダ",
+      "winner_pred_rank": 16,
+      "winner_mark": "",
+      "pred_top1_no": 8,
+      "hit_top1": false,
+      "winner_in_pred_top3": false,
+      "actual_top3": [
+        16,
+        10,
+        4
+      ],
+      "pred_top3": [
+        8,
+        1,
+        6
+      ],
+      "top3_overlap": [],
+      "top3_overlap_count": 0
+    },
+    {
+      "race_no": 12,
+      "status": "ok",
+      "actual_source": "output/eval_11r_results/2026年1月24日（土曜）1回中山8日 12レース.pdf",
+      "sim_source": "output/exp_worldline_11r/Race_1_(2026年1月24日（土曜）1回中山8日_12レース).json",
+      "winner_no": 2,
+      "winner_name": "プリムツァール",
+      "winner_pred_rank": 1,
+      "winner_mark": "◎",
+      "pred_top1_no": 2,
+      "hit_top1": true,
+      "winner_in_pred_top3": true,
+      "actual_top3": [
+        2,
+        8,
+        1
+      ],
+      "pred_top3": [
+        2,
+        4,
+        10
+      ],
+      "top3_overlap": [
+        2
+      ],
+      "top3_overlap_count": 1
+    }
+  ]
+}

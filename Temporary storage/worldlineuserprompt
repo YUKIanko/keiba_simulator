@@ -1,0 +1,44 @@
+race_info={...}
+
+course_context={
+  "start_to_first_corner_distance": ...,
+  "corner_count": ...,
+  "corner_tightness": ...,
+  "final_straight_length": ...,
+  "finish_slope": ...,
+  "inside_outside_bias": ...,
+  "notes": ...
+}
+
+initial_positions={...}
+
+Task:
+Infer only post-initial pack changes and branching race scenarios.
+The initial positions are fixed and must remain unchanged as the starting state.
+
+What to infer:
+- which horses are more likely to retain position after the initial phase
+- which horses are more likely to lose position due to corner pressure or wide travel
+- which horses may gradually improve later because of energy preservation
+- where pack compression or release is likely to happen
+- how course structure changes the race flow after the initial phase
+
+Constraints:
+- Do not output final ranking.
+- Do not recompute initial positions.
+- Produce 3-4 branching worldlines.
+- Each worldline should be driven by plausible course-related race flow.
+- horse_dynamics values should be small and bounded near [-0.5, 0.5].
+- Keep horse_dynamics concise: include only 4-8 horses per worldline with meaningful movement.
+- Avoid extreme reorderings unless clearly justified by course structure.
+- Keep probabilities normalized close to 1.0.
+
+Recommended branch types to cover:
+- early inside / forward retention branch
+- corner compression and wide-loss branch
+- late improvement branch enabled by preserved energy
+- uphill fatigue or front weakening branch (if slope is relevant)
+
+Return JSON only.
+
+schema={...}
